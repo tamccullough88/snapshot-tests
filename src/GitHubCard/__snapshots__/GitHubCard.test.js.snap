@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="Photo-with-dog.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Photo of me with a dog
+      </div>
+      <p
+        className="card-text"
+      >
+        I am a software dev student learning about testing.
+      </p>
+    </div>
+  </div>
+</div>
+`;
